@@ -1,0 +1,14 @@
+{
+  "name": "pattern-match-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie Duong (charlieduong94@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.matches": "^4.6.0"
+  },
+  "devDependencies": {}
+}
